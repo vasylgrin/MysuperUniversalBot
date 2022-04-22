@@ -1,0 +1,12 @@
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\bin\Debug\net6.0\MySuperUniversalBot_BL.deps.json
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\bin\Debug\net6.0\MySuperUniversalBot_BL.dll
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\bin\Debug\net6.0\MySuperUniversalBot_BL.pdb
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.csproj.AssemblyReference.cache
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.AssemblyInfoInputs.cache
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.AssemblyInfo.cs
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.csproj.CoreCompileInputs.cache
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.dll
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\refint\MySuperUniversalBot_BL.dll
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\MySuperUniversalBot_BL.pdb
+D:\myProject\MySuperUniversalBot\MySuperUniversalBot_BL\obj\Debug\net6.0\ref\MySuperUniversalBot_BL.dll
